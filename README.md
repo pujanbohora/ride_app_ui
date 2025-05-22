@@ -14,7 +14,6 @@ This Flutter project contains a UI-only implementation of two screens. No backen
 ## 🚀 How to Run
 
 1. Make sure Flutter is installed on your machine
-2. Unzip or clone the project
 3. Run the following commands:
 
 ```bash
@@ -22,8 +21,18 @@ flutter pub get
 flutter run
 ```
 
-## Screen Shot
-1. Home Screen
-![Screenshot_20250522_142621.png](../../Screenshot_20250522_142621.png)
-2. Ride selection screen
-[Screenshot_20250522_142559.png](../../Screenshot_20250522_142559.png)
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td>
+      <strong>Home Screen</strong><br>
+      <img src="https://github.com/user-attachments/assets/fcf6780c-3d1e-48bd-aa4b-febeeb72be21" width="300"/>
+    </td>
+    <td>
+      <strong>Ride Selection Screen</strong><br>
+      <img src="https://github.com/user-attachments/assets/a0bde611-33e6-4bd3-8dc4-afce694d2789" width="300"/>
+    </td>
+  </tr>
+</table>
+
