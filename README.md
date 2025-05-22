@@ -1,17 +1,29 @@
-# rideapp
+# Booking UI – Flutter Task
 
-A new Flutter project.
+This Flutter project contains a UI-only implementation of two screens. No backend or state management is included.
 
-## Getting Started
+## 🖼️ What’s Included
 
-This project is a starting point for a Flutter application.
+- Two custom UI screens
+- Reusable widgets like:
+    - Custom carousel
+    - Community cards
+    - Bottom navigation bar
+    - Payment and time selector tiles
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 How to Run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Make sure Flutter is installed on your machine
+2. Unzip or clone the project
+3. Run the following commands:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# ride_app_ui
+```bash
+flutter pub get
+flutter run
+```
+
+## Screen Shot
+1. Home Screen
+![Screenshot_20250522_142621.png](../../Screenshot_20250522_142621.png)
+2. Ride selection screen
+[Screenshot_20250522_142559.png](../../Screenshot_20250522_142559.png)
